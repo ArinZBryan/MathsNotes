@@ -8,3 +8,8 @@ It contains the collected notes I have found.
 !['Download Zip' button](Images/FMN_2.png)
 3. Unzip the folder somewhere on your machine.
 4. Profit?
+
+## Credits
+- Mr Galagher (various)
+- DFM (sources)
+- IntegralMaths (various)
