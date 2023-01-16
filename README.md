@@ -1,4 +1,4 @@
-# Further Maths Notes
+# Maths / Further Maths Notes
 It contains the collected notes I have found.
 
 ## To download:
