@@ -1,0 +1,12 @@
+﻿Full Name,Shorthand,Unit Maximum,Unit Minimum,Measure
+Date,Date,N/A,N/A,Date
+Celcius,°C,N/A,0,Temperature
+millimetres,mm,N/A,0,Rainfall
+Knots,kn,N/A,0,"Wind Speed, Gust"
+Beaufort,Bf,N/A,N/A,Beaufort Wind Speed
+Percent,%,100,0,Humidity
+Oktas,Ok,8,0,Cloud Cover
+Dam,dam,N/A,0,Visibility
+hectopascals,hPa,N/A,0,Pressure
+Degrees,°,360,0,"Wind Direction, Gust Direction"
+Cardinal Direction, ,N/A,N/A,"Compass Wind Direction, Compass Gust Direction"
