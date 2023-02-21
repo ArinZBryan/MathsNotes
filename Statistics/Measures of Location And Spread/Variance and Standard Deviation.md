@@ -1,7 +1,7 @@
 # Variance and Standard Deviation
 
 ## Variance
-Variance is a measure of spread that takes all values into account. Variance by definition, is the **average squared distance from the mean**.
+Variance is a measure of spread that takes all values into account. Variance by definition, is the **average squared distance from the mean**. It is notated as $Var(x)$
 
 To calculate variance, use the equation:
 
@@ -22,3 +22,10 @@ $\frac{\sum{x^2} - n\bar{x}}{n}$
 
 ## Standard Deviation
 Standard deviation is just the square root of the variance. Thus, when given the variance, the S.D. is just its square root, and vice versa.
+
+The standard deviation is represented by the lowercase sigma ($\sigma$)
+
+## Multiplying data
+If all the values in a collection were multiplied by a single value $p$, the standard deviation will also be multiplied by $p$
+
+Similarly, if the data was multiplied by the single value $p$, the variance will be multiplied by $p^2$
