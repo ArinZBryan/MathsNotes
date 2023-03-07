@@ -3,7 +3,7 @@
 ## Pythagorean Identities
 $\sin^2{\theta} + \cos^2{\theta} = 1$  
 $\tan^2{\theta} + 1 = \sec^2{\theta}$  
-$\cot^2\theta + 1 = \cosec^2\theta$  
+$\cot^2\theta + 1 = \csc^2\theta$  
 
 ## Addition and Subtraction Identities
 $\sin(A \pm B) = \sin{A}\cos{B} \pm \cos{A}\sin{B}$  
@@ -19,6 +19,6 @@ $\tan (2\theta) = \frac{2\tan\theta}{1 - \tan^2\theta}$
 $\sin(-\theta) = -\sin\theta$  
 $\cos(-\theta) = \cos\theta$  
 $\tan(-\theta) = -\tan\theta$  
-$\cosec(-\theta) = -\cosec\theta$  
+$\csc(-\theta) = -\csc\theta$  
 $\sec(-\theta) = \sec\theta$  
 $\cot(-\theta) = -\cot\theta$  
